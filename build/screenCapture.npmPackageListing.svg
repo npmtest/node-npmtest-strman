@@ -1,278 +1,278 @@
 <svg height="4398" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="4398" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 10:19:51 +0000  2946035 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 10:19:51 +0000      235 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 10:19:51 +0000     2452 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 10:19:51 +0000    29287 bytes  coverage/clover.xml</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 10:19:51 +0000    69967 bytes  coverage/coverage-final.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 10:19:51 +0000     3343 bytes  coverage/lcov-report/append.js.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 10:19:51 +0000     3566 bytes  coverage/lcov-report/appendarray.js.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 10:19:51 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 10:19:51 +0000     4189 bytes  coverage/lcov-report/index.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 10:19:51 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 10:19:51 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 10:19:51 +0000     4946 bytes  coverage/lcov-report/repeat.js.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 10:19:51 +0000     4088 bytes  coverage/lcov-report/rightpad.js.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 10:19:51 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 10:19:51 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 10:19:51 +0000     2279 bytes  coverage/lcov-report/strman.js.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 10:19:51 +0000     3253 bytes  coverage/lcov-report/substr.js.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 10:19:51 +0000     2972 bytes  coverage/lcov-report/urlDecode.js.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 10:19:51 +0000     3035 bytes  coverage/lcov-report/urlencode.js.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 10:19:51 +0000    15880 bytes  coverage/lcov.info</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 10:19:51 +0000     5705 bytes  docs/append.js.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 10:19:51 +0000     5752 bytes  docs/appendarray.js.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 10:19:51 +0000     5628 bytes  docs/at.js.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 10:19:51 +0000     5640 bytes  docs/base64decode.js.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 10:19:51 +0000     5707 bytes  docs/base64encode.js.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 10:19:51 +0000     5961 bytes  docs/between.js.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 10:19:51 +0000     5818 bytes  docs/bindecode.js.html</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 10:19:51 +0000     5796 bytes  docs/binencode.js.html</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 10:19:51 +0000     5598 bytes  docs/chars.js.html</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 10:19:51 +0000     5779 bytes  docs/collapsewhitespace.js.html</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 10:19:51 +0000     6075 bytes  docs/compare.js.html</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 10:19:51 +0000     5909 bytes  docs/contains.js.html</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 10:19:51 +0000     6225 bytes  docs/containsall.js.html</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 10:19:51 +0000     6170 bytes  docs/containsany.js.html</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 10:19:51 +0000     6445 bytes  docs/countsubstr.js.html</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 10:19:51 +0000     5748 bytes  docs/decdecode.js.html</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 10:19:51 +0000     5750 bytes  docs/decencode.js.html</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 10:19:51 +0000     6535 bytes  docs/endswith.js.html</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 10:19:51 +0000     6114 bytes  docs/ensureleft.js.html</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 10:19:51 +0000     6118 bytes  docs/ensureright.js.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 10:19:51 +0000     5627 bytes  docs/equal.js.html</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 10:19:51 +0000     5633 bytes  docs/first.js.html</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 10:19:51 +0000    19544 bytes  docs/fonts/OpenSans-Bold-webfont.eot</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 10:19:51 +0000   118259 bytes  docs/fonts/OpenSans-Bold-webfont.svg</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 10:19:51 +0000    22432 bytes  docs/fonts/OpenSans-Bold-webfont.woff</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 10:19:51 +0000    20133 bytes  docs/fonts/OpenSans-BoldItalic-webfont.eot</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 10:19:51 +0000   121112 bytes  docs/fonts/OpenSans-BoldItalic-webfont.svg</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 10:19:51 +0000    23048 bytes  docs/fonts/OpenSans-BoldItalic-webfont.woff</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 10:19:51 +0000    20265 bytes  docs/fonts/OpenSans-Italic-webfont.eot</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 10:19:51 +0000   122495 bytes  docs/fonts/OpenSans-Italic-webfont.svg</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 10:19:51 +0000    23188 bytes  docs/fonts/OpenSans-Italic-webfont.woff</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 10:19:51 +0000    19514 bytes  docs/fonts/OpenSans-Light-webfont.eot</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 10:19:51 +0000   117270 bytes  docs/fonts/OpenSans-Light-webfont.svg</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 10:19:51 +0000    22248 bytes  docs/fonts/OpenSans-Light-webfont.woff</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 10:19:51 +0000    20535 bytes  docs/fonts/OpenSans-LightItalic-webfont.eot</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 10:19:51 +0000   122968 bytes  docs/fonts/OpenSans-LightItalic-webfont.svg</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 10:19:51 +0000    23400 bytes  docs/fonts/OpenSans-LightItalic-webfont.woff</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 10:19:51 +0000    19836 bytes  docs/fonts/OpenSans-Regular-webfont.eot</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 10:19:51 +0000   119399 bytes  docs/fonts/OpenSans-Regular-webfont.svg</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 10:19:51 +0000    22660 bytes  docs/fonts/OpenSans-Regular-webfont.woff</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 10:19:51 +0000    20028 bytes  docs/fonts/OpenSans-Semibold-webfont.eot</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 10:19:51 +0000   118464 bytes  docs/fonts/OpenSans-Semibold-webfont.svg</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 10:19:51 +0000    39476 bytes  docs/fonts/OpenSans-Semibold-webfont.ttf</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 10:19:51 +0000    22908 bytes  docs/fonts/OpenSans-Semibold-webfont.woff</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 10:19:51 +0000    20962 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.eot</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 10:19:51 +0000   122491 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.svg</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 10:19:51 +0000    40252 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.ttf</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 10:19:51 +0000    23764 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.woff</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 10:19:51 +0000     6019 bytes  docs/format.js.html</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 10:19:51 +0000     5763 bytes  docs/hexdecode.js.html</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 10:19:51 +0000     5768 bytes  docs/hexencode.js.html</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 10:19:51 +0000     5873 bytes  docs/htmldecode.js.html</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 10:19:51 +0000     5875 bytes  docs/htmlencode.js.html</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 10:19:51 +0000     7769 bytes  docs/index.html</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 10:19:51 +0000     6074 bytes  docs/indexof.js.html</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 10:19:51 +0000     5651 bytes  docs/inequal.js.html</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 10:19:51 +0000     5940 bytes  docs/insert.js.html</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 10:19:51 +0000     5692 bytes  docs/islowercase.js.html</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 10:19:51 +0000     5675 bytes  docs/isstring.js.html</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 10:19:51 +0000     5687 bytes  docs/isuppercase.js.html</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 10:19:51 +0000     5645 bytes  docs/last.js.html</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 10:19:51 +0000     6186 bytes  docs/lastindexof.js.html</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 10:19:51 +0000     6064 bytes  docs/leftpad.js.html</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 10:19:51 +0000     5736 bytes  docs/lefttrim.js.html</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 10:19:51 +0000     7334 bytes  docs/module-append.html</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 10:19:51 +0000     7376 bytes  docs/module-appendArray.html</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 10:19:51 +0000     7268 bytes  docs/module-at.html</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 10:19:51 +0000     7013 bytes  docs/module-base64decode.html</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 10:19:51 +0000     7084 bytes  docs/module-base64encode.html</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 10:19:51 +0000     7807 bytes  docs/module-between.html</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 10:19:51 +0000     7083 bytes  docs/module-binDecode.html</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 10:19:51 +0000     7063 bytes  docs/module-binEncode.html</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 10:19:51 +0000     7003 bytes  docs/module-chars.html</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 10:19:51 +0000     7113 bytes  docs/module-collapseWhitespace.html</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 10:19:51 +0000     7675 bytes  docs/module-compare.html</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 10:19:51 +0000     8648 bytes  docs/module-contains.html</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 10:19:51 +0000     8718 bytes  docs/module-containsAll.html</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 10:19:51 +0000     8741 bytes  docs/module-containsAny.html</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 10:19:51 +0000     9312 bytes  docs/module-countSubstr.html</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 10:19:51 +0000     7011 bytes  docs/module-decDecode.html</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 10:19:51 +0000     7014 bytes  docs/module-decEncode.html</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 10:19:51 +0000     9299 bytes  docs/module-endsWith.html</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 10:19:51 +0000     8788 bytes  docs/module-ensureLeft.html</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 10:19:51 +0000     8773 bytes  docs/module-ensureRight.html</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 10:19:51 +0000     7319 bytes  docs/module-equal.html</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 10:19:51 +0000     7294 bytes  docs/module-first.html</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 10:19:51 +0000     7514 bytes  docs/module-format.html</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 10:19:51 +0000     7009 bytes  docs/module-hexDecode.html</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 10:19:51 +0000     7016 bytes  docs/module-hexEncode.html</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 10:19:51 +0000     7010 bytes  docs/module-htmlDecode.html</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 10:19:51 +0000     7010 bytes  docs/module-htmlEncode.html</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 10:19:51 +0000    17131 bytes  docs/module-inequal.html</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 10:19:51 +0000     7694 bytes  docs/module-insert.html</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 10:19:51 +0000     6864 bytes  docs/module-isLowerCase.html</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 10:19:51 +0000     7019 bytes  docs/module-isString.html</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 10:19:51 +0000     7030 bytes  docs/module-isUpperCase.html</tspan>
-<tspan x="10" y="1882">116.  2017-04-18 10:19:51 +0000     7290 bytes  docs/module-last.html</tspan>
-<tspan x="10" y="1898">117.  2017-04-18 10:19:51 +0000     9383 bytes  docs/module-lastIndefOf.html</tspan>
-<tspan x="10" y="1914">118.  2017-04-18 10:19:51 +0000     8536 bytes  docs/module-leftPad.html</tspan>
-<tspan x="10" y="1930">119.  2017-04-18 10:19:51 +0000     7964 bytes  docs/module-leftTrim.html</tspan>
-<tspan x="10" y="1946">120.  2017-04-18 10:19:51 +0000     7687 bytes  docs/module-prepend.html</tspan>
-<tspan x="10" y="1962">121.  2017-04-18 10:19:51 +0000     7403 bytes  docs/module-prependArray.html</tspan>
-<tspan x="10" y="1978">122.  2017-04-18 10:19:51 +0000     7260 bytes  docs/module-removeEmptyStrings.html</tspan>
-<tspan x="10" y="1994">123.  2017-04-18 10:19:51 +0000     8580 bytes  docs/module-removeLeft.html</tspan>
-<tspan x="10" y="2010">124.  2017-04-18 10:19:51 +0000     8008 bytes  docs/module-removeNonWords.html</tspan>
-<tspan x="10" y="2026">125.  2017-04-18 10:19:51 +0000    15841 bytes  docs/module-removeSpaces.html</tspan>
-<tspan x="10" y="2042">126.  2017-04-18 10:19:51 +0000     7344 bytes  docs/module-repeat.html</tspan>
-<tspan x="10" y="2058">127.  2017-04-18 10:19:51 +0000     8455 bytes  docs/module-replace.html</tspan>
-<tspan x="10" y="2074">128.  2017-04-18 10:19:51 +0000     6935 bytes  docs/module-reverse.html</tspan>
-<tspan x="10" y="2090">129.  2017-04-18 10:19:51 +0000     7727 bytes  docs/module-rightPad.html</tspan>
-<tspan x="10" y="2106">130.  2017-04-18 10:19:51 +0000     7981 bytes  docs/module-rightTrim.html</tspan>
-<tspan x="10" y="2122">131.  2017-04-18 10:19:51 +0000     8735 bytes  docs/module-safeTruncate.html</tspan>
-<tspan x="10" y="2138">132.  2017-04-18 10:19:51 +0000     6965 bytes  docs/module-shuffle.html</tspan>
-<tspan x="10" y="2154">133.  2017-04-18 10:19:51 +0000    13341 bytes  docs/module-slugify.html</tspan>
-<tspan x="10" y="2170">134.  2017-04-18 10:19:51 +0000     7632 bytes  docs/module-split.html</tspan>
-<tspan x="10" y="2186">135.  2017-04-18 10:19:51 +0000     9225 bytes  docs/module-startsWith.html</tspan>
-<tspan x="10" y="2202">136.  2017-04-18 10:19:51 +0000     7620 bytes  docs/module-substr.html</tspan>
-<tspan x="10" y="2218">137.  2017-04-18 10:19:51 +0000     7778 bytes  docs/module-surround.html</tspan>
-<tspan x="10" y="2234">138.  2017-04-18 10:19:51 +0000     7061 bytes  docs/module-toCamelCase.html</tspan>
-<tspan x="10" y="2250">139.  2017-04-18 10:19:51 +0000     7070 bytes  docs/module-toDecamelize.html</tspan>
-<tspan x="10" y="2266">140.  2017-04-18 10:19:51 +0000     7068 bytes  docs/module-toKebabCase.html</tspan>
-<tspan x="10" y="2282">141.  2017-04-18 10:19:51 +0000     7064 bytes  docs/module-toLowerCase.html</tspan>
-<tspan x="10" y="2298">142.  2017-04-18 10:19:51 +0000     7068 bytes  docs/module-toSnakeCase.html</tspan>
-<tspan x="10" y="2314">143.  2017-04-18 10:19:51 +0000     7075 bytes  docs/module-toStudlyCaps.html</tspan>
-<tspan x="10" y="2330">144.  2017-04-18 10:19:51 +0000     7064 bytes  docs/module-toUpperCase.html</tspan>
-<tspan x="10" y="2346">145.  2017-04-18 10:19:51 +0000     7088 bytes  docs/module-transliterate.html</tspan>
-<tspan x="10" y="2362">146.  2017-04-18 10:19:51 +0000     7937 bytes  docs/module-trim.html</tspan>
-<tspan x="10" y="2378">147.  2017-04-18 10:19:51 +0000     8685 bytes  docs/module-truncate.html</tspan>
-<tspan x="10" y="2394">148.  2017-04-18 10:19:51 +0000     7091 bytes  docs/module-urlDecode.html</tspan>
-<tspan x="10" y="2410">149.  2017-04-18 10:19:51 +0000     7174 bytes  docs/module-urlEncode.html</tspan>
-<tspan x="10" y="2426">150.  2017-04-18 10:19:51 +0000     5721 bytes  docs/prepend.js.html</tspan>
-<tspan x="10" y="2442">151.  2017-04-18 10:19:51 +0000     5783 bytes  docs/prependarray.js.html</tspan>
-<tspan x="10" y="2458">152.  2017-04-18 10:19:51 +0000     5881 bytes  docs/removeemptystrings.js.html</tspan>
-<tspan x="10" y="2474">153.  2017-04-18 10:19:51 +0000     5962 bytes  docs/removeleft.js.html</tspan>
-<tspan x="10" y="2490">154.  2017-04-18 10:19:51 +0000     5775 bytes  docs/removenonwords.js.html</tspan>
-<tspan x="10" y="2506">155.  2017-04-18 10:19:51 +0000     6019 bytes  docs/removeright.js.html</tspan>
-<tspan x="10" y="2522">156.  2017-04-18 10:19:51 +0000     5760 bytes  docs/removespaces.js.html</tspan>
-<tspan x="10" y="2538">157.  2017-04-18 10:19:51 +0000     5768 bytes  docs/repeat.js.html</tspan>
-<tspan x="10" y="2554">158.  2017-04-18 10:19:51 +0000     6069 bytes  docs/replace.js.html</tspan>
-<tspan x="10" y="2570">159.  2017-04-18 10:19:51 +0000     5672 bytes  docs/reverse.js.html</tspan>
-<tspan x="10" y="2586">160.  2017-04-18 10:19:51 +0000     5996 bytes  docs/rightpad.js.html</tspan>
-<tspan x="10" y="2602">161.  2017-04-18 10:19:51 +0000     5752 bytes  docs/righttrim.js.html</tspan>
-<tspan x="10" y="2618">162.  2017-04-18 10:19:51 +0000     6485 bytes  docs/safetruncate.js.html</tspan>
-<tspan x="10" y="2634">163.  2017-04-18 10:19:51 +0000      674 bytes  docs/scripts/linenumber.js</tspan>
-<tspan x="10" y="2650">164.  2017-04-18 10:19:51 +0000    11358 bytes  docs/scripts/prettify/Apache-License-2.0.txt</tspan>
-<tspan x="10" y="2666">165.  2017-04-18 10:19:51 +0000      861 bytes  docs/scripts/prettify/lang-css.js</tspan>
-<tspan x="10" y="2682">166.  2017-04-18 10:19:51 +0000    13632 bytes  docs/scripts/prettify/prettify.js</tspan>
-<tspan x="10" y="2698">167.  2017-04-18 10:19:51 +0000     5856 bytes  docs/shuffle.js.html</tspan>
-<tspan x="10" y="2714">168.  2017-04-18 10:19:51 +0000     5701 bytes  docs/slice.js.html</tspan>
-<tspan x="10" y="2730">169.  2017-04-18 10:19:51 +0000     6195 bytes  docs/slugify.js.html</tspan>
-<tspan x="10" y="2746">170.  2017-04-18 10:19:51 +0000     5686 bytes  docs/split.js.html</tspan>
-<tspan x="10" y="2762">171.  2017-04-18 10:19:51 +0000     6027 bytes  docs/startswith.js.html</tspan>
-<tspan x="10" y="2778">172.  2017-04-18 10:19:51 +0000     9046 bytes  docs/styles/jsdoc-default.css</tspan>
-<tspan x="10" y="2794">173.  2017-04-18 10:19:51 +0000     1547 bytes  docs/styles/prettify-jsdoc.css</tspan>
-<tspan x="10" y="2810">174.  2017-04-18 10:19:51 +0000     2082 bytes  docs/styles/prettify-tomorrow.css</tspan>
-<tspan x="10" y="2826">175.  2017-04-18 10:19:51 +0000     5666 bytes  docs/substr.js.html</tspan>
-<tspan x="10" y="2842">176.  2017-04-18 10:19:51 +0000     5899 bytes  docs/surround.js.html</tspan>
-<tspan x="10" y="2858">177.  2017-04-18 10:19:51 +0000     5838 bytes  docs/tocamelcase.js.html</tspan>
-<tspan x="10" y="2874">178.  2017-04-18 10:19:51 +0000     5877 bytes  docs/todecamelize.js.html</tspan>
-<tspan x="10" y="2890">179.  2017-04-18 10:19:51 +0000     5723 bytes  docs/tokebabcase.js.html</tspan>
-<tspan x="10" y="2906">180.  2017-04-18 10:19:51 +0000     5677 bytes  docs/tolowercase.js.html</tspan>
-<tspan x="10" y="2922">181.  2017-04-18 10:19:51 +0000     5723 bytes  docs/tosnakecase.js.html</tspan>
-<tspan x="10" y="2938">182.  2017-04-18 10:19:51 +0000     5851 bytes  docs/tostudlycaps.js.html</tspan>
-<tspan x="10" y="2954">183.  2017-04-18 10:19:51 +0000     5677 bytes  docs/touppercase.js.html</tspan>
-<tspan x="10" y="2970">184.  2017-04-18 10:19:51 +0000     5935 bytes  docs/transliterate.js.html</tspan>
-<tspan x="10" y="2986">185.  2017-04-18 10:19:51 +0000     5767 bytes  docs/trim.js.html</tspan>
-<tspan x="10" y="3002">186.  2017-04-18 10:19:51 +0000     6144 bytes  docs/truncate.js.html</tspan>
-<tspan x="10" y="3018">187.  2017-04-18 10:19:51 +0000     5701 bytes  docs/urlDecode.js.html</tspan>
-<tspan x="10" y="3034">188.  2017-04-18 10:19:51 +0000     5785 bytes  docs/urlencode.js.html</tspan>
-<tspan x="10" y="3050">189.  2017-04-18 10:19:51 +0000     1111 bytes  lib/append.js</tspan>
-<tspan x="10" y="3066">190.  2017-04-18 10:19:51 +0000      890 bytes  lib/appendarray.js</tspan>
-<tspan x="10" y="3082">191.  2017-04-18 10:19:51 +0000      887 bytes  lib/at.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-18 10:19:51 +0000      715 bytes  lib/base64decode.js</tspan>
-<tspan x="10" y="3114">193.  2017-04-18 10:19:51 +0000      782 bytes  lib/base64encode.js</tspan>
-<tspan x="10" y="3130">194.  2017-04-18 10:19:51 +0000     1456 bytes  lib/between.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-18 10:19:51 +0000     1084 bytes  lib/bindecode.js</tspan>
-<tspan x="10" y="3162">196.  2017-04-18 10:19:51 +0000     1062 bytes  lib/binencode.js</tspan>
-<tspan x="10" y="3178">197.  2017-04-18 10:19:51 +0000      687 bytes  lib/chars.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-18 10:19:51 +0000     1077 bytes  lib/collapsewhitespace.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-18 10:19:51 +0000     1307 bytes  lib/compare.js</tspan>
-<tspan x="10" y="3226">200.  2017-04-18 10:19:51 +0000     1231 bytes  lib/contains.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-18 10:19:51 +0000     1549 bytes  lib/containsall.js</tspan>
-<tspan x="10" y="3258">202.  2017-04-18 10:19:51 +0000     1511 bytes  lib/containsany.js</tspan>
-<tspan x="10" y="3274">203.  2017-04-18 10:19:51 +0000     2150 bytes  lib/countsubstr.js</tspan>
-<tspan x="10" y="3290">204.  2017-04-18 10:19:51 +0000     1012 bytes  lib/decdecode.js</tspan>
-<tspan x="10" y="3306">205.  2017-04-18 10:19:51 +0000     1015 bytes  lib/decencode.js</tspan>
-<tspan x="10" y="3322">206.  2017-04-18 10:19:51 +0000     1972 bytes  lib/endswith.js</tspan>
-<tspan x="10" y="3338">207.  2017-04-18 10:19:51 +0000     1499 bytes  lib/ensureleft.js</tspan>
-<tspan x="10" y="3354">208.  2017-04-18 10:19:51 +0000     1497 bytes  lib/ensureright.js</tspan>
-<tspan x="10" y="3370">209.  2017-04-18 10:19:51 +0000      714 bytes  lib/equal.js</tspan>
-<tspan x="10" y="3386">210.  2017-04-18 10:19:51 +0000      887 bytes  lib/first.js</tspan>
-<tspan x="10" y="3402">211.  2017-04-18 10:19:51 +0000     1334 bytes  lib/format.js</tspan>
-<tspan x="10" y="3418">212.  2017-04-18 10:19:51 +0000     1019 bytes  lib/hexdecode.js</tspan>
-<tspan x="10" y="3434">213.  2017-04-18 10:19:51 +0000     1025 bytes  lib/hexencode.js</tspan>
-<tspan x="10" y="3450">214.  2017-04-18 10:19:51 +0000     1185 bytes  lib/htmldecode.js</tspan>
-<tspan x="10" y="3466">215.  2017-04-18 10:19:51 +0000     1202 bytes  lib/htmlencode.js</tspan>
-<tspan x="10" y="3482">216.  2017-04-18 10:19:51 +0000     1446 bytes  lib/indexof.js</tspan>
-<tspan x="10" y="3498">217.  2017-04-18 10:19:51 +0000      734 bytes  lib/inequal.js</tspan>
-<tspan x="10" y="3514">218.  2017-04-18 10:19:51 +0000     1262 bytes  lib/insert.js</tspan>
-<tspan x="10" y="3530">219.  2017-04-18 10:19:51 +0000      946 bytes  lib/islowercase.js</tspan>
-<tspan x="10" y="3546">220.  2017-04-18 10:19:51 +0000      758 bytes  lib/isstring.js</tspan>
-<tspan x="10" y="3562">221.  2017-04-18 10:19:51 +0000      941 bytes  lib/isuppercase.js</tspan>
-<tspan x="10" y="3578">222.  2017-04-18 10:19:51 +0000      901 bytes  lib/last.js</tspan>
-<tspan x="10" y="3594">223.  2017-04-18 10:19:51 +0000     1547 bytes  lib/lastindexof.js</tspan>
-<tspan x="10" y="3610">224.  2017-04-18 10:19:51 +0000     1519 bytes  lib/leftpad.js</tspan>
-<tspan x="10" y="3626">225.  2017-04-18 10:19:51 +0000     1065 bytes  lib/lefttrim.js</tspan>
-<tspan x="10" y="3642">226.  2017-04-18 10:19:51 +0000     6150 bytes  lib/lib/ascii.js</tspan>
-<tspan x="10" y="3658">227.  2017-04-18 10:19:51 +0000      509 bytes  lib/lib/case.js</tspan>
-<tspan x="10" y="3674">228.  2017-04-18 10:19:51 +0000      300 bytes  lib/lib/decode.js</tspan>
-<tspan x="10" y="3690">229.  2017-04-18 10:19:51 +0000      560 bytes  lib/lib/encode.js</tspan>
-<tspan x="10" y="3706">230.  2017-04-18 10:19:51 +0000    55275 bytes  lib/lib/entitiesdecode.js</tspan>
-<tspan x="10" y="3722">231.  2017-04-18 10:19:51 +0000    35626 bytes  lib/lib/entitiesencode.js</tspan>
-<tspan x="10" y="3738">232.  2017-04-18 10:19:51 +0000      378 bytes  lib/lib/numericalbase.js</tspan>
-<tspan x="10" y="3754">233.  2017-04-18 10:19:51 +0000      149 bytes  lib/lib/poparray.js</tspan>
-<tspan x="10" y="3770">234.  2017-04-18 10:19:51 +0000     1129 bytes  lib/prepend.js</tspan>
-<tspan x="10" y="3786">235.  2017-04-18 10:19:51 +0000      919 bytes  lib/prependarray.js</tspan>
-<tspan x="10" y="3802">236.  2017-04-18 10:19:51 +0000      962 bytes  lib/removeemptystrings.js</tspan>
-<tspan x="10" y="3818">237.  2017-04-18 10:19:51 +0000     1347 bytes  lib/removeleft.js</tspan>
-<tspan x="10" y="3834">238.  2017-04-18 10:19:51 +0000     1087 bytes  lib/removenonwords.js</tspan>
-<tspan x="10" y="3850">239.  2017-04-18 10:19:51 +0000     1397 bytes  lib/removeright.js</tspan>
-<tspan x="10" y="3866">240.  2017-04-18 10:19:51 +0000     1075 bytes  lib/removespaces.js</tspan>
-<tspan x="10" y="3882">241.  2017-04-18 10:19:51 +0000      844 bytes  lib/repeat.js</tspan>
-<tspan x="10" y="3898">242.  2017-04-18 10:19:51 +0000     1434 bytes  lib/replace.js</tspan>
-<tspan x="10" y="3914">243.  2017-04-18 10:19:51 +0000     1016 bytes  lib/reverse.js</tspan>
-<tspan x="10" y="3930">244.  2017-04-18 10:19:51 +0000     1403 bytes  lib/rightpad.js</tspan>
-<tspan x="10" y="3946">245.  2017-04-18 10:19:51 +0000     1073 bytes  lib/righttrim.js</tspan>
-<tspan x="10" y="3962">246.  2017-04-18 10:19:51 +0000     2024 bytes  lib/safetruncate.js</tspan>
-<tspan x="10" y="3978">247.  2017-04-18 10:19:51 +0000     1218 bytes  lib/shuffle.js</tspan>
-<tspan x="10" y="3994">248.  2017-04-18 10:19:51 +0000      861 bytes  lib/slice.js</tspan>
-<tspan x="10" y="4010">249.  2017-04-18 10:19:51 +0000     1766 bytes  lib/slugify.js</tspan>
-<tspan x="10" y="4026">250.  2017-04-18 10:19:51 +0000      847 bytes  lib/split.js</tspan>
-<tspan x="10" y="4042">251.  2017-04-18 10:19:51 +0000     1448 bytes  lib/startswith.js</tspan>
-<tspan x="10" y="4058">252.  2017-04-18 10:19:51 +0000    11187 bytes  lib/strman.js</tspan>
-<tspan x="10" y="4074">253.  2017-04-18 10:19:51 +0000      825 bytes  lib/substr.js</tspan>
-<tspan x="10" y="4090">254.  2017-04-18 10:19:51 +0000     1288 bytes  lib/surround.js</tspan>
-<tspan x="10" y="4106">255.  2017-04-18 10:19:51 +0000     1158 bytes  lib/tocamelcase.js</tspan>
-<tspan x="10" y="4122">256.  2017-04-18 10:19:51 +0000     1267 bytes  lib/todecamelize.js</tspan>
-<tspan x="10" y="4138">257.  2017-04-18 10:19:51 +0000      979 bytes  lib/tokebabcase.js</tspan>
-<tspan x="10" y="4154">258.  2017-04-18 10:19:51 +0000      754 bytes  lib/tolowercase.js</tspan>
-<tspan x="10" y="4170">259.  2017-04-18 10:19:51 +0000      979 bytes  lib/tosnakecase.js</tspan>
-<tspan x="10" y="4186">260.  2017-04-18 10:19:51 +0000     1126 bytes  lib/tostudlycaps.js</tspan>
-<tspan x="10" y="4202">261.  2017-04-18 10:19:51 +0000      754 bytes  lib/touppercase.js</tspan>
-<tspan x="10" y="4218">262.  2017-04-18 10:19:51 +0000     1268 bytes  lib/transliterate.js</tspan>
-<tspan x="10" y="4234">263.  2017-04-18 10:19:51 +0000     1176 bytes  lib/trim.js</tspan>
-<tspan x="10" y="4250">264.  2017-04-18 10:19:51 +0000     1527 bytes  lib/truncate.js</tspan>
-<tspan x="10" y="4266">265.  2017-04-18 10:19:51 +0000      774 bytes  lib/urlDecode.js</tspan>
-<tspan x="10" y="4282">266.  2017-04-18 10:19:51 +0000      858 bytes  lib/urlencode.js</tspan>
-<tspan x="10" y="4298">267.  2017-04-18 10:19:51 +0000     4397 bytes  package.json</tspan>
-<tspan x="10" y="4314">268.  2017-04-18 10:19:51 +0000    26742 bytes  strman.png</tspan>
-<tspan x="10" y="4330">269.  2017-04-18 10:19:51 +0000       45 bytes  strman.sublime-project</tspan>
-<tspan x="10" y="4346">270.  2017-04-18 10:19:51 +0000    31222 bytes  strman.sublime-workspace</tspan>
-<tspan x="10" y="4362">271.  2017-04-18 10:19:51 +0000    13897 bytes  strman_new.png</tspan>
-<tspan x="10" y="4378">272.  2017-04-18 10:19:51 +0000   136319 bytes  yarn.lock</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 10:20:53 +0000  2946035 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 10:20:53 +0000      235 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 10:20:53 +0000     2452 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 10:20:53 +0000    29287 bytes  coverage/clover.xml</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 10:20:53 +0000    69967 bytes  coverage/coverage-final.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 10:20:53 +0000     3343 bytes  coverage/lcov-report/append.js.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 10:20:53 +0000     3566 bytes  coverage/lcov-report/appendarray.js.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 10:20:53 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 10:20:53 +0000     4189 bytes  coverage/lcov-report/index.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 10:20:53 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 10:20:53 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 10:20:53 +0000     4946 bytes  coverage/lcov-report/repeat.js.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 10:20:53 +0000     4088 bytes  coverage/lcov-report/rightpad.js.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 10:20:53 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 10:20:53 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 10:20:53 +0000     2279 bytes  coverage/lcov-report/strman.js.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 10:20:53 +0000     3253 bytes  coverage/lcov-report/substr.js.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 10:20:53 +0000     2972 bytes  coverage/lcov-report/urlDecode.js.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 10:20:53 +0000     3035 bytes  coverage/lcov-report/urlencode.js.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 10:20:53 +0000    15880 bytes  coverage/lcov.info</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 10:20:53 +0000     5705 bytes  docs/append.js.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 10:20:53 +0000     5752 bytes  docs/appendarray.js.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 10:20:53 +0000     5628 bytes  docs/at.js.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 10:20:53 +0000     5640 bytes  docs/base64decode.js.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 10:20:53 +0000     5707 bytes  docs/base64encode.js.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 10:20:53 +0000     5961 bytes  docs/between.js.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 10:20:53 +0000     5818 bytes  docs/bindecode.js.html</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 10:20:53 +0000     5796 bytes  docs/binencode.js.html</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 10:20:53 +0000     5598 bytes  docs/chars.js.html</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 10:20:53 +0000     5779 bytes  docs/collapsewhitespace.js.html</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 10:20:53 +0000     6075 bytes  docs/compare.js.html</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 10:20:53 +0000     5909 bytes  docs/contains.js.html</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 10:20:53 +0000     6225 bytes  docs/containsall.js.html</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 10:20:53 +0000     6170 bytes  docs/containsany.js.html</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 10:20:53 +0000     6445 bytes  docs/countsubstr.js.html</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 10:20:53 +0000     5748 bytes  docs/decdecode.js.html</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 10:20:53 +0000     5750 bytes  docs/decencode.js.html</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 10:20:53 +0000     6535 bytes  docs/endswith.js.html</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 10:20:53 +0000     6114 bytes  docs/ensureleft.js.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 10:20:53 +0000     6118 bytes  docs/ensureright.js.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 10:20:53 +0000     5627 bytes  docs/equal.js.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 10:20:53 +0000     5633 bytes  docs/first.js.html</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 10:20:53 +0000    19544 bytes  docs/fonts/OpenSans-Bold-webfont.eot</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 10:20:53 +0000   118259 bytes  docs/fonts/OpenSans-Bold-webfont.svg</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 10:20:53 +0000    22432 bytes  docs/fonts/OpenSans-Bold-webfont.woff</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 10:20:53 +0000    20133 bytes  docs/fonts/OpenSans-BoldItalic-webfont.eot</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 10:20:53 +0000   121112 bytes  docs/fonts/OpenSans-BoldItalic-webfont.svg</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 10:20:53 +0000    23048 bytes  docs/fonts/OpenSans-BoldItalic-webfont.woff</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 10:20:53 +0000    20265 bytes  docs/fonts/OpenSans-Italic-webfont.eot</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 10:20:53 +0000   122495 bytes  docs/fonts/OpenSans-Italic-webfont.svg</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 10:20:53 +0000    23188 bytes  docs/fonts/OpenSans-Italic-webfont.woff</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 10:20:53 +0000    19514 bytes  docs/fonts/OpenSans-Light-webfont.eot</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 10:20:53 +0000   117270 bytes  docs/fonts/OpenSans-Light-webfont.svg</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 10:20:53 +0000    22248 bytes  docs/fonts/OpenSans-Light-webfont.woff</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 10:20:53 +0000    20535 bytes  docs/fonts/OpenSans-LightItalic-webfont.eot</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 10:20:53 +0000   122968 bytes  docs/fonts/OpenSans-LightItalic-webfont.svg</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 10:20:53 +0000    23400 bytes  docs/fonts/OpenSans-LightItalic-webfont.woff</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 10:20:53 +0000    19836 bytes  docs/fonts/OpenSans-Regular-webfont.eot</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 10:20:53 +0000   119399 bytes  docs/fonts/OpenSans-Regular-webfont.svg</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 10:20:53 +0000    22660 bytes  docs/fonts/OpenSans-Regular-webfont.woff</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 10:20:53 +0000    20028 bytes  docs/fonts/OpenSans-Semibold-webfont.eot</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 10:20:53 +0000   118464 bytes  docs/fonts/OpenSans-Semibold-webfont.svg</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 10:20:53 +0000    39476 bytes  docs/fonts/OpenSans-Semibold-webfont.ttf</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 10:20:53 +0000    22908 bytes  docs/fonts/OpenSans-Semibold-webfont.woff</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 10:20:53 +0000    20962 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.eot</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 10:20:53 +0000   122491 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.svg</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 10:20:53 +0000    40252 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.ttf</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 10:20:53 +0000    23764 bytes  docs/fonts/OpenSans-SemiboldItalic-webfont.woff</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 10:20:53 +0000     6019 bytes  docs/format.js.html</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 10:20:53 +0000     5763 bytes  docs/hexdecode.js.html</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 10:20:53 +0000     5768 bytes  docs/hexencode.js.html</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 10:20:53 +0000     5873 bytes  docs/htmldecode.js.html</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 10:20:53 +0000     5875 bytes  docs/htmlencode.js.html</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 10:20:53 +0000     7769 bytes  docs/index.html</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 10:20:53 +0000     6074 bytes  docs/indexof.js.html</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 10:20:53 +0000     5651 bytes  docs/inequal.js.html</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 10:20:53 +0000     5940 bytes  docs/insert.js.html</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 10:20:53 +0000     5692 bytes  docs/islowercase.js.html</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 10:20:53 +0000     5675 bytes  docs/isstring.js.html</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 10:20:53 +0000     5687 bytes  docs/isuppercase.js.html</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 10:20:53 +0000     5645 bytes  docs/last.js.html</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 10:20:53 +0000     6186 bytes  docs/lastindexof.js.html</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 10:20:53 +0000     6064 bytes  docs/leftpad.js.html</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 10:20:53 +0000     5736 bytes  docs/lefttrim.js.html</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 10:20:53 +0000     7334 bytes  docs/module-append.html</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 10:20:53 +0000     7376 bytes  docs/module-appendArray.html</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 10:20:53 +0000     7268 bytes  docs/module-at.html</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 10:20:53 +0000     7013 bytes  docs/module-base64decode.html</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 10:20:53 +0000     7084 bytes  docs/module-base64encode.html</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 10:20:53 +0000     7807 bytes  docs/module-between.html</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 10:20:53 +0000     7083 bytes  docs/module-binDecode.html</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 10:20:53 +0000     7063 bytes  docs/module-binEncode.html</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 10:20:53 +0000     7003 bytes  docs/module-chars.html</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 10:20:53 +0000     7113 bytes  docs/module-collapseWhitespace.html</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 10:20:53 +0000     7675 bytes  docs/module-compare.html</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 10:20:53 +0000     8648 bytes  docs/module-contains.html</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 10:20:53 +0000     8718 bytes  docs/module-containsAll.html</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 10:20:53 +0000     8741 bytes  docs/module-containsAny.html</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 10:20:53 +0000     9312 bytes  docs/module-countSubstr.html</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 10:20:53 +0000     7011 bytes  docs/module-decDecode.html</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 10:20:53 +0000     7014 bytes  docs/module-decEncode.html</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 10:20:53 +0000     9299 bytes  docs/module-endsWith.html</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 10:20:53 +0000     8788 bytes  docs/module-ensureLeft.html</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 10:20:53 +0000     8773 bytes  docs/module-ensureRight.html</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 10:20:53 +0000     7319 bytes  docs/module-equal.html</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 10:20:53 +0000     7294 bytes  docs/module-first.html</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 10:20:53 +0000     7514 bytes  docs/module-format.html</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 10:20:53 +0000     7009 bytes  docs/module-hexDecode.html</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 10:20:53 +0000     7016 bytes  docs/module-hexEncode.html</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 10:20:53 +0000     7010 bytes  docs/module-htmlDecode.html</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 10:20:53 +0000     7010 bytes  docs/module-htmlEncode.html</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 10:20:53 +0000    17131 bytes  docs/module-inequal.html</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 10:20:53 +0000     7694 bytes  docs/module-insert.html</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 10:20:53 +0000     6864 bytes  docs/module-isLowerCase.html</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 10:20:53 +0000     7019 bytes  docs/module-isString.html</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 10:20:53 +0000     7030 bytes  docs/module-isUpperCase.html</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 10:20:53 +0000     7290 bytes  docs/module-last.html</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 10:20:53 +0000     9383 bytes  docs/module-lastIndefOf.html</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 10:20:53 +0000     8536 bytes  docs/module-leftPad.html</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 10:20:53 +0000     7964 bytes  docs/module-leftTrim.html</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 10:20:53 +0000     7687 bytes  docs/module-prepend.html</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 10:20:53 +0000     7403 bytes  docs/module-prependArray.html</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 10:20:53 +0000     7260 bytes  docs/module-removeEmptyStrings.html</tspan>
+<tspan x="10" y="1994">123.  2017-04-18 10:20:53 +0000     8580 bytes  docs/module-removeLeft.html</tspan>
+<tspan x="10" y="2010">124.  2017-04-18 10:20:53 +0000     8008 bytes  docs/module-removeNonWords.html</tspan>
+<tspan x="10" y="2026">125.  2017-04-18 10:20:53 +0000    15841 bytes  docs/module-removeSpaces.html</tspan>
+<tspan x="10" y="2042">126.  2017-04-18 10:20:53 +0000     7344 bytes  docs/module-repeat.html</tspan>
+<tspan x="10" y="2058">127.  2017-04-18 10:20:53 +0000     8455 bytes  docs/module-replace.html</tspan>
+<tspan x="10" y="2074">128.  2017-04-18 10:20:53 +0000     6935 bytes  docs/module-reverse.html</tspan>
+<tspan x="10" y="2090">129.  2017-04-18 10:20:53 +0000     7727 bytes  docs/module-rightPad.html</tspan>
+<tspan x="10" y="2106">130.  2017-04-18 10:20:53 +0000     7981 bytes  docs/module-rightTrim.html</tspan>
+<tspan x="10" y="2122">131.  2017-04-18 10:20:53 +0000     8735 bytes  docs/module-safeTruncate.html</tspan>
+<tspan x="10" y="2138">132.  2017-04-18 10:20:53 +0000     6965 bytes  docs/module-shuffle.html</tspan>
+<tspan x="10" y="2154">133.  2017-04-18 10:20:53 +0000    13341 bytes  docs/module-slugify.html</tspan>
+<tspan x="10" y="2170">134.  2017-04-18 10:20:53 +0000     7632 bytes  docs/module-split.html</tspan>
+<tspan x="10" y="2186">135.  2017-04-18 10:20:53 +0000     9225 bytes  docs/module-startsWith.html</tspan>
+<tspan x="10" y="2202">136.  2017-04-18 10:20:53 +0000     7620 bytes  docs/module-substr.html</tspan>
+<tspan x="10" y="2218">137.  2017-04-18 10:20:53 +0000     7778 bytes  docs/module-surround.html</tspan>
+<tspan x="10" y="2234">138.  2017-04-18 10:20:53 +0000     7061 bytes  docs/module-toCamelCase.html</tspan>
+<tspan x="10" y="2250">139.  2017-04-18 10:20:53 +0000     7070 bytes  docs/module-toDecamelize.html</tspan>
+<tspan x="10" y="2266">140.  2017-04-18 10:20:53 +0000     7068 bytes  docs/module-toKebabCase.html</tspan>
+<tspan x="10" y="2282">141.  2017-04-18 10:20:53 +0000     7064 bytes  docs/module-toLowerCase.html</tspan>
+<tspan x="10" y="2298">142.  2017-04-18 10:20:53 +0000     7068 bytes  docs/module-toSnakeCase.html</tspan>
+<tspan x="10" y="2314">143.  2017-04-18 10:20:53 +0000     7075 bytes  docs/module-toStudlyCaps.html</tspan>
+<tspan x="10" y="2330">144.  2017-04-18 10:20:53 +0000     7064 bytes  docs/module-toUpperCase.html</tspan>
+<tspan x="10" y="2346">145.  2017-04-18 10:20:53 +0000     7088 bytes  docs/module-transliterate.html</tspan>
+<tspan x="10" y="2362">146.  2017-04-18 10:20:53 +0000     7937 bytes  docs/module-trim.html</tspan>
+<tspan x="10" y="2378">147.  2017-04-18 10:20:53 +0000     8685 bytes  docs/module-truncate.html</tspan>
+<tspan x="10" y="2394">148.  2017-04-18 10:20:53 +0000     7091 bytes  docs/module-urlDecode.html</tspan>
+<tspan x="10" y="2410">149.  2017-04-18 10:20:53 +0000     7174 bytes  docs/module-urlEncode.html</tspan>
+<tspan x="10" y="2426">150.  2017-04-18 10:20:53 +0000     5721 bytes  docs/prepend.js.html</tspan>
+<tspan x="10" y="2442">151.  2017-04-18 10:20:53 +0000     5783 bytes  docs/prependarray.js.html</tspan>
+<tspan x="10" y="2458">152.  2017-04-18 10:20:53 +0000     5881 bytes  docs/removeemptystrings.js.html</tspan>
+<tspan x="10" y="2474">153.  2017-04-18 10:20:53 +0000     5962 bytes  docs/removeleft.js.html</tspan>
+<tspan x="10" y="2490">154.  2017-04-18 10:20:53 +0000     5775 bytes  docs/removenonwords.js.html</tspan>
+<tspan x="10" y="2506">155.  2017-04-18 10:20:53 +0000     6019 bytes  docs/removeright.js.html</tspan>
+<tspan x="10" y="2522">156.  2017-04-18 10:20:53 +0000     5760 bytes  docs/removespaces.js.html</tspan>
+<tspan x="10" y="2538">157.  2017-04-18 10:20:53 +0000     5768 bytes  docs/repeat.js.html</tspan>
+<tspan x="10" y="2554">158.  2017-04-18 10:20:53 +0000     6069 bytes  docs/replace.js.html</tspan>
+<tspan x="10" y="2570">159.  2017-04-18 10:20:53 +0000     5672 bytes  docs/reverse.js.html</tspan>
+<tspan x="10" y="2586">160.  2017-04-18 10:20:53 +0000     5996 bytes  docs/rightpad.js.html</tspan>
+<tspan x="10" y="2602">161.  2017-04-18 10:20:53 +0000     5752 bytes  docs/righttrim.js.html</tspan>
+<tspan x="10" y="2618">162.  2017-04-18 10:20:53 +0000     6485 bytes  docs/safetruncate.js.html</tspan>
+<tspan x="10" y="2634">163.  2017-04-18 10:20:53 +0000      674 bytes  docs/scripts/linenumber.js</tspan>
+<tspan x="10" y="2650">164.  2017-04-18 10:20:53 +0000    11358 bytes  docs/scripts/prettify/Apache-License-2.0.txt</tspan>
+<tspan x="10" y="2666">165.  2017-04-18 10:20:53 +0000      861 bytes  docs/scripts/prettify/lang-css.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-18 10:20:53 +0000    13632 bytes  docs/scripts/prettify/prettify.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-18 10:20:53 +0000     5856 bytes  docs/shuffle.js.html</tspan>
+<tspan x="10" y="2714">168.  2017-04-18 10:20:53 +0000     5701 bytes  docs/slice.js.html</tspan>
+<tspan x="10" y="2730">169.  2017-04-18 10:20:53 +0000     6195 bytes  docs/slugify.js.html</tspan>
+<tspan x="10" y="2746">170.  2017-04-18 10:20:53 +0000     5686 bytes  docs/split.js.html</tspan>
+<tspan x="10" y="2762">171.  2017-04-18 10:20:53 +0000     6027 bytes  docs/startswith.js.html</tspan>
+<tspan x="10" y="2778">172.  2017-04-18 10:20:53 +0000     9046 bytes  docs/styles/jsdoc-default.css</tspan>
+<tspan x="10" y="2794">173.  2017-04-18 10:20:53 +0000     1547 bytes  docs/styles/prettify-jsdoc.css</tspan>
+<tspan x="10" y="2810">174.  2017-04-18 10:20:53 +0000     2082 bytes  docs/styles/prettify-tomorrow.css</tspan>
+<tspan x="10" y="2826">175.  2017-04-18 10:20:53 +0000     5666 bytes  docs/substr.js.html</tspan>
+<tspan x="10" y="2842">176.  2017-04-18 10:20:53 +0000     5899 bytes  docs/surround.js.html</tspan>
+<tspan x="10" y="2858">177.  2017-04-18 10:20:53 +0000     5838 bytes  docs/tocamelcase.js.html</tspan>
+<tspan x="10" y="2874">178.  2017-04-18 10:20:53 +0000     5877 bytes  docs/todecamelize.js.html</tspan>
+<tspan x="10" y="2890">179.  2017-04-18 10:20:53 +0000     5723 bytes  docs/tokebabcase.js.html</tspan>
+<tspan x="10" y="2906">180.  2017-04-18 10:20:53 +0000     5677 bytes  docs/tolowercase.js.html</tspan>
+<tspan x="10" y="2922">181.  2017-04-18 10:20:53 +0000     5723 bytes  docs/tosnakecase.js.html</tspan>
+<tspan x="10" y="2938">182.  2017-04-18 10:20:53 +0000     5851 bytes  docs/tostudlycaps.js.html</tspan>
+<tspan x="10" y="2954">183.  2017-04-18 10:20:53 +0000     5677 bytes  docs/touppercase.js.html</tspan>
+<tspan x="10" y="2970">184.  2017-04-18 10:20:53 +0000     5935 bytes  docs/transliterate.js.html</tspan>
+<tspan x="10" y="2986">185.  2017-04-18 10:20:53 +0000     5767 bytes  docs/trim.js.html</tspan>
+<tspan x="10" y="3002">186.  2017-04-18 10:20:53 +0000     6144 bytes  docs/truncate.js.html</tspan>
+<tspan x="10" y="3018">187.  2017-04-18 10:20:53 +0000     5701 bytes  docs/urlDecode.js.html</tspan>
+<tspan x="10" y="3034">188.  2017-04-18 10:20:53 +0000     5785 bytes  docs/urlencode.js.html</tspan>
+<tspan x="10" y="3050">189.  2017-04-18 10:20:53 +0000     1111 bytes  lib/append.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-18 10:20:53 +0000      890 bytes  lib/appendarray.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-18 10:20:53 +0000      887 bytes  lib/at.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-18 10:20:53 +0000      715 bytes  lib/base64decode.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-18 10:20:53 +0000      782 bytes  lib/base64encode.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-18 10:20:53 +0000     1456 bytes  lib/between.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-18 10:20:53 +0000     1084 bytes  lib/bindecode.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-18 10:20:53 +0000     1062 bytes  lib/binencode.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-18 10:20:53 +0000      687 bytes  lib/chars.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-18 10:20:53 +0000     1077 bytes  lib/collapsewhitespace.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-18 10:20:53 +0000     1307 bytes  lib/compare.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-18 10:20:53 +0000     1231 bytes  lib/contains.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-18 10:20:53 +0000     1549 bytes  lib/containsall.js</tspan>
+<tspan x="10" y="3258">202.  2017-04-18 10:20:53 +0000     1511 bytes  lib/containsany.js</tspan>
+<tspan x="10" y="3274">203.  2017-04-18 10:20:53 +0000     2150 bytes  lib/countsubstr.js</tspan>
+<tspan x="10" y="3290">204.  2017-04-18 10:20:53 +0000     1012 bytes  lib/decdecode.js</tspan>
+<tspan x="10" y="3306">205.  2017-04-18 10:20:53 +0000     1015 bytes  lib/decencode.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-18 10:20:53 +0000     1972 bytes  lib/endswith.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-18 10:20:53 +0000     1499 bytes  lib/ensureleft.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-18 10:20:53 +0000     1497 bytes  lib/ensureright.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-18 10:20:53 +0000      714 bytes  lib/equal.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-18 10:20:53 +0000      887 bytes  lib/first.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-18 10:20:53 +0000     1334 bytes  lib/format.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-18 10:20:53 +0000     1019 bytes  lib/hexdecode.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-18 10:20:53 +0000     1025 bytes  lib/hexencode.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-18 10:20:53 +0000     1185 bytes  lib/htmldecode.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-18 10:20:53 +0000     1202 bytes  lib/htmlencode.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-18 10:20:53 +0000     1446 bytes  lib/indexof.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-18 10:20:53 +0000      734 bytes  lib/inequal.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-18 10:20:53 +0000     1262 bytes  lib/insert.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-18 10:20:53 +0000      946 bytes  lib/islowercase.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-18 10:20:53 +0000      758 bytes  lib/isstring.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-18 10:20:53 +0000      941 bytes  lib/isuppercase.js</tspan>
+<tspan x="10" y="3578">222.  2017-04-18 10:20:53 +0000      901 bytes  lib/last.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-18 10:20:53 +0000     1547 bytes  lib/lastindexof.js</tspan>
+<tspan x="10" y="3610">224.  2017-04-18 10:20:53 +0000     1519 bytes  lib/leftpad.js</tspan>
+<tspan x="10" y="3626">225.  2017-04-18 10:20:53 +0000     1065 bytes  lib/lefttrim.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-18 10:20:53 +0000     6150 bytes  lib/lib/ascii.js</tspan>
+<tspan x="10" y="3658">227.  2017-04-18 10:20:53 +0000      509 bytes  lib/lib/case.js</tspan>
+<tspan x="10" y="3674">228.  2017-04-18 10:20:53 +0000      300 bytes  lib/lib/decode.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-18 10:20:53 +0000      560 bytes  lib/lib/encode.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-18 10:20:53 +0000    55275 bytes  lib/lib/entitiesdecode.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-18 10:20:53 +0000    35626 bytes  lib/lib/entitiesencode.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-18 10:20:53 +0000      378 bytes  lib/lib/numericalbase.js</tspan>
+<tspan x="10" y="3754">233.  2017-04-18 10:20:53 +0000      149 bytes  lib/lib/poparray.js</tspan>
+<tspan x="10" y="3770">234.  2017-04-18 10:20:53 +0000     1129 bytes  lib/prepend.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-18 10:20:53 +0000      919 bytes  lib/prependarray.js</tspan>
+<tspan x="10" y="3802">236.  2017-04-18 10:20:53 +0000      962 bytes  lib/removeemptystrings.js</tspan>
+<tspan x="10" y="3818">237.  2017-04-18 10:20:53 +0000     1347 bytes  lib/removeleft.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-18 10:20:53 +0000     1087 bytes  lib/removenonwords.js</tspan>
+<tspan x="10" y="3850">239.  2017-04-18 10:20:53 +0000     1397 bytes  lib/removeright.js</tspan>
+<tspan x="10" y="3866">240.  2017-04-18 10:20:53 +0000     1075 bytes  lib/removespaces.js</tspan>
+<tspan x="10" y="3882">241.  2017-04-18 10:20:53 +0000      844 bytes  lib/repeat.js</tspan>
+<tspan x="10" y="3898">242.  2017-04-18 10:20:53 +0000     1434 bytes  lib/replace.js</tspan>
+<tspan x="10" y="3914">243.  2017-04-18 10:20:53 +0000     1016 bytes  lib/reverse.js</tspan>
+<tspan x="10" y="3930">244.  2017-04-18 10:20:53 +0000     1403 bytes  lib/rightpad.js</tspan>
+<tspan x="10" y="3946">245.  2017-04-18 10:20:53 +0000     1073 bytes  lib/righttrim.js</tspan>
+<tspan x="10" y="3962">246.  2017-04-18 10:20:53 +0000     2024 bytes  lib/safetruncate.js</tspan>
+<tspan x="10" y="3978">247.  2017-04-18 10:20:53 +0000     1218 bytes  lib/shuffle.js</tspan>
+<tspan x="10" y="3994">248.  2017-04-18 10:20:53 +0000      861 bytes  lib/slice.js</tspan>
+<tspan x="10" y="4010">249.  2017-04-18 10:20:53 +0000     1766 bytes  lib/slugify.js</tspan>
+<tspan x="10" y="4026">250.  2017-04-18 10:20:53 +0000      847 bytes  lib/split.js</tspan>
+<tspan x="10" y="4042">251.  2017-04-18 10:20:53 +0000     1448 bytes  lib/startswith.js</tspan>
+<tspan x="10" y="4058">252.  2017-04-18 10:20:53 +0000    11187 bytes  lib/strman.js</tspan>
+<tspan x="10" y="4074">253.  2017-04-18 10:20:53 +0000      825 bytes  lib/substr.js</tspan>
+<tspan x="10" y="4090">254.  2017-04-18 10:20:53 +0000     1288 bytes  lib/surround.js</tspan>
+<tspan x="10" y="4106">255.  2017-04-18 10:20:53 +0000     1158 bytes  lib/tocamelcase.js</tspan>
+<tspan x="10" y="4122">256.  2017-04-18 10:20:53 +0000     1267 bytes  lib/todecamelize.js</tspan>
+<tspan x="10" y="4138">257.  2017-04-18 10:20:53 +0000      979 bytes  lib/tokebabcase.js</tspan>
+<tspan x="10" y="4154">258.  2017-04-18 10:20:53 +0000      754 bytes  lib/tolowercase.js</tspan>
+<tspan x="10" y="4170">259.  2017-04-18 10:20:53 +0000      979 bytes  lib/tosnakecase.js</tspan>
+<tspan x="10" y="4186">260.  2017-04-18 10:20:53 +0000     1126 bytes  lib/tostudlycaps.js</tspan>
+<tspan x="10" y="4202">261.  2017-04-18 10:20:53 +0000      754 bytes  lib/touppercase.js</tspan>
+<tspan x="10" y="4218">262.  2017-04-18 10:20:53 +0000     1268 bytes  lib/transliterate.js</tspan>
+<tspan x="10" y="4234">263.  2017-04-18 10:20:53 +0000     1176 bytes  lib/trim.js</tspan>
+<tspan x="10" y="4250">264.  2017-04-18 10:20:53 +0000     1527 bytes  lib/truncate.js</tspan>
+<tspan x="10" y="4266">265.  2017-04-18 10:20:53 +0000      774 bytes  lib/urlDecode.js</tspan>
+<tspan x="10" y="4282">266.  2017-04-18 10:20:53 +0000      858 bytes  lib/urlencode.js</tspan>
+<tspan x="10" y="4298">267.  2017-04-18 10:20:53 +0000     4397 bytes  package.json</tspan>
+<tspan x="10" y="4314">268.  2017-04-18 10:20:53 +0000    26742 bytes  strman.png</tspan>
+<tspan x="10" y="4330">269.  2017-04-18 10:20:53 +0000       45 bytes  strman.sublime-project</tspan>
+<tspan x="10" y="4346">270.  2017-04-18 10:20:53 +0000    31222 bytes  strman.sublime-workspace</tspan>
+<tspan x="10" y="4362">271.  2017-04-18 10:20:53 +0000    13897 bytes  strman_new.png</tspan>
+<tspan x="10" y="4378">272.  2017-04-18 10:20:53 +0000   136319 bytes  yarn.lock</tspan>
 </text>
 </svg>
